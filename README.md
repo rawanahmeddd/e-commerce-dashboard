@@ -1,4 +1,4 @@
-# E-Commerce Dashboard
+# E-Commerce Dashboard 
 
 A comprehensive analytics and monitoring dashboard for e-commerce operations, providing real-time insights into sales, orders, revenue, and business performance across multiple regions and product categories.
 
