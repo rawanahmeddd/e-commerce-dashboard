@@ -91,37 +91,6 @@ A comprehensive analytics and monitoring dashboard for e-commerce operations, pr
 - **Delivery Tracking**: Monitor order fulfillment status and identify delays
 - **Profit Analysis**: Identify top-performing products and cities
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Node.js (v14 or higher)
-- npm or yarn package manager
-- Modern web browser
-
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/rawanahmeddd/e-commerce-dashboard.git
-
-# Navigate to the project directory
-cd e-commerce-dashboard
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm start
-```
-
-## 📦 Technologies Used
-
-- **Frontend Framework**: React.js
-- **Charting Library**: Chart.js / Recharts
-- **Data Visualization**: Multiple chart types (line, bar, pie, area)
-- **Styling**: Modern CSS/Tailwind CSS
-- **State Management**: Redux / Context API
-
 ## 🎨 Dashboard Design
 
 The dashboard features:
